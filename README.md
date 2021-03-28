@@ -1,1 +1,1 @@
-# LumiWallet
+# AtomicWallet
